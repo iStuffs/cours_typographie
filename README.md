@@ -35,6 +35,8 @@
 | ‚ = alt-shift-r          | ‚ = alt+0130                                 |
 | „ = alt-shift-é          |  „ = alt+0132                                |
 
+*resources*
+[http://www.cepegra-labs.be/tools/tools/entites-html.html](http://www.cepegra-labs.be/tools/tools/entites-html.html)
 
 ## Les abréviations
 
