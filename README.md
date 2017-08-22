@@ -2,21 +2,9 @@
 
 
 ## L’apostrophe typographique ’
-| macOS        | alt - shift - ‘                                               |
-| ------------ | ------------------------------------------------------------- |
-| Windows      | alt - 0146 (gardez alt appuyée et composez 0146),  Alt Gr - , |
-| Entités HTML | `&rsquo;` `&#8217;`                                           |
-
----
 
 |                  |                                                               |
 | ---------------- | ------------------------------------------------------------- |
-| **macOS**        | alt - shift - ‘                                               |
-| **Windows**      | alt - 0146 (gardez alt appuyée et composez 0146),  Alt Gr - , |
-| **Entités HTML** | `&rsquo;` `&#8217;`                                           |
-
----
-
 | **macOS**        | alt - shift - ‘                                               |
 | **Windows**      | alt - 0146 (gardez alt appuyée et composez 0146),  Alt Gr - , |
 | **Entités HTML** | `&rsquo;` `&#8217;`                                           |
@@ -25,12 +13,15 @@
 
 
 ## Les guillemets « » pour les dialogues
-| macOS        | alt-è «, alt-shift-è »                  |
-| ------------ | --------------------------------------- |
-| Windows      | « = alt+0171, » = alt+0187              |
-| Entités HTML | `&laquo;` `&#171;`,  `&raquo;` `&#187;` |
+
+|                  |                                         |
+| ---------------- | --------------------------------------- |
+| **macOS**        | alt-è «, alt-shift-è »                  |
+| **Windows**      | « = alt+0171, » = alt+0187              |
+| **Entités HTML** | `&laquo;` `&#171;`,  `&raquo;` `&#187;` |
 
 **Les raccourcis clavier guillemets**
+
 | macOS (clavier français) | Windows(gardez alt appuyée et composez 0171) |
 | ------------------------ | -------------------------------------------- |
 | « = alt-è                | « = alt+0171                                 |
@@ -113,23 +104,24 @@ Pour les numéros de téléphone, le séparateur est “l’espace”
 
 
 ## L’italique
-
 On utilise l'**italique pour les mots étrangers, les titres de journaux**…
 *exemple* : L’article  « CSS Flexbox » dans *webdevelopper mag*
 
 
-
 ## Les ligatures
 
-| macOS        | æ = alt-a, Æ = alt-A, Œ alt - O, œ = alt-o,                 |
+|              |                                                             |
 | ------------ | ----------------------------------------------------------- |
+| macOS        | æ = alt-a, Æ = alt-A, Œ alt - O, œ = alt-o,                 |
 | Windows      | æ = alt+1169, Æ = alt+1170, œ = alt+0156, Œ = Alt+0140      |
 | Entités HTML | æ = `&aelig;`, Æ = `&AElig;`,  œ = `&oelig;`, Œ = `&OElig;` |
 
 
 ## Les majuscules accentuées sous Windows
-| A | Á = alt 181, Â = alt 182, À = alt 183              |
+
+|   |                                                    |
 | - | -------------------------------------------------- |
+| A | Á = alt 181, Â = alt 182, À = alt 183              |
 | C | Ç = alt 128                                        |
 | E | È = alt 212, É = alt 144, Ë = alt 211, Ê = alt 210 |
 | O | Ö = alt 153                                        |
