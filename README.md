@@ -25,7 +25,7 @@
 | macOS (clavier français) | Windows(gardez alt appuyée et composez 0171) |
 | ------------------------ | -------------------------------------------- |
 | « = alt-è                | « = alt+0171                                 |
-| » = alt-shift-è          |» = alt+0187                                  |
+| » = alt-shift-è          | » = alt+0187                                 |
 | ‹ = alt-w                | ‹ = alt+0139                                 |
 | › = alt-shift-w          | › = alt+0155                                 |
 | “ = alt-"                | “ = alt+0147                                 |
@@ -40,14 +40,14 @@
 
 ## Les abréviations
 
-- Abréviation par **retrait des lettre médianes: en exposant**
+-   Abréviation par **retrait des lettre médianes: en exposant**
 
 *exemple* : Docteur → Dr →  D<sub>r</sub>
 ```HTML
 D<sup>r</sup>
 ```
 
-- Abréviation **par troncation**: on utilise **un point**
+-   Abréviation **par troncation**: on utilise **un point**
 
 *exemple*: Monsieur → M → M.
 
@@ -81,13 +81,13 @@ Faubourg f<sub>g</sub>
 ## Les majuscules
 
 **Majuscule**
-- début d’une phrase
-- noms propres
-- noms de Pays
+-   début d’une phrase
+-   noms propres
+-   noms de Pays
 
 **Pas de majuscule**
-- aux fonctions (président, pape …)
-- aux religions et nationalités
+-   aux fonctions (président, pape …)
+-   aux religions et nationalités
 
 
 ## Les nombres
@@ -132,24 +132,24 @@ On utilise l'**italique pour les mots étrangers, les titres de journaux**…
 
 ## Classification des Polices (Vox-Atypi)
 
-- **Famille des caractères classiques**
-  - Les humanes
-  - Les garaldes
-  - Les réales
-- **Famille des caractères modernes**
-  - Les didones
-  - Les mécanes
-  - Les linéales
-    - Les linéales grotesques
-    - Les linéales néogrotesques
-    - Les linéales géométriques
-    - Les linéales humanistes
-- **Famille des caractères d'inspiration calligraphique**
-  - Les incises
-  - Les scriptes
-  - Les manuaires
-  - Les fractures
-  - Les gaéliques
+-   **Famille des caractères classiques**
+    -   Les humanes
+    -   Les garaldes
+    -   Les réales
+-   **Famille des caractères modernes**
+    -   Les didones
+    -   Les mécanes
+    -   Les linéales
+        -   Les linéales grotesques
+        -   Les linéales néogrotesques
+        -   Les linéales géométriques
+        -   Les linéales humanistes
+-   **Famille des caractères d'inspiration calligraphique**
+    -   Les incises
+    -   Les scriptes
+    -   Les manuaires
+    -   Les fractures
+    -   Les gaéliques
 
 
 
@@ -272,4 +272,4 @@ Les fractures (de l'allemand fraktur) correspondent aux caractères couramment a
 
 Le type gaélique a été ajoutée à la classification lors de l'AGM de la réunion de Dublin d'ATypI le 12 septembre 2010.
 
-*Source*: https://fr.wikipedia.org/wiki/Classification_Vox-Atypi
+*Source*: [https://fr.wikipedia.org/wiki/Classification_Vox-Atypi](https://fr.wikipedia.org/wiki/Classification_Vox-Atypi)
